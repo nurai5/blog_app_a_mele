@@ -14,7 +14,7 @@
 #### Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/joerude/codify-assignment-python.git
+git clone https://github.com/nurai5/blog_app_a_mele
 cd  codify-assignment-python
 ```
 
